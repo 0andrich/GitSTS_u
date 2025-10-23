@@ -4,5 +4,6 @@ public class TestController2 {
 	public void m() {
 		System.out.println("TestController2-m()");
 		System.out.println("TestController2-m()");
+		System.out.println("TestController2-m()");
 	}
 }
